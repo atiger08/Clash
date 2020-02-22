@@ -18,7 +18,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 ;设置分组标志位
 custom_proxy_group=🔰 国外网站`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]📌 手动切换`[]DIRECT
 custom_proxy_group=📲 电报吹水`select`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]📌 手动切换`[]DIRECT
-custom_proxy_group=🎥 NETFLIX`select`[]🎥 奈非节点`[]DIRECT
+custom_proxy_group=🎥 NETFLIX`select`[]🎥 奈非节点`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点
 custom_proxy_group=📺 巴哈姆特`select`[]🇨🇳 台湾节点`[]📌 手动切换`[]DIRECT
 custom_proxy_group=🌍 国际媒体`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]📌 手动切换`[]DIRECT
 custom_proxy_group=🌏 港台媒体`select`[]DIRECT`[]📌 手动切换`[]🇭🇰 香港节点`[]🇨🇳 台湾节点
@@ -30,6 +30,6 @@ custom_proxy_group=🇸🇬 狮城节点`url-test`(新|狮城|SG)`http://www.gst
 custom_proxy_group=🇯🇵 日本节点`url-test`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP)`http://www.gstatic.com/generate_204`500
 custom_proxy_group=🇺🇲 美国节点`url-test`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)`http://www.gstatic.com/generate_204`500
 custom_proxy_group=📌 手动切换`select`.*
-custom_proxy_group=🎥 奈非节点`select`(NF|解锁|Netflix|NETFLIX)`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点
+custom_proxy_group=🎥 奈非节点`select`(NF|解锁|Netflix|NETFLIX)
 custom_proxy_group=🛑 拦截连接`select`[]REJECT`[]DIRECT
 ;设置分组标志位
